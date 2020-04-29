@@ -1,0 +1,50 @@
+.img-my-1 {
+    width: 912px;
+
+}
+.carousel-inner>.item>a>img, .carousel-inner>.item>img {
+    height: 612px;
+}
+
+.btn-danger {
+    border-radius: 65px;
+}
+
+.login-button{
+
+}
+.btn-warning {
+    
+    border-radius: 80px;
+    transition: transform 1s;
+}
+.btn-warning:hover{
+    background-color: black;
+     transform: scale(2);
+    box-shadow: 5px 5px 5px 5px orange;
+    
+}
+.project-my:hover{
+    background-color: red;
+    color: black;
+}
+.login-button {
+    border-radius: 50%;
+}
+.div-style{
+     transition: transform 1s;
+}
+.div-style:hover{
+    transform: scale(1.2);
+}
+.p-style:hover{
+    background-color: black;
+}
+.fadeInUpBig:hover{
+    color: black;
+    background-color: yellow;
+}
+
+element.style:hover {
+    background-color: black;
+}
